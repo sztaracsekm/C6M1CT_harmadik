@@ -1,4 +1,4 @@
-package hu.c6m1ct.beadandoFeladat.controller;
+package hu.c6m1ct.beadandoFeladat.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
